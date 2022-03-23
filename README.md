@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViditNaithani22
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on project that require java programming
+- 💞️ I’m looking to collaborate on projects that require java programming
 - 📫 text me on instagram for any questions https://www.instagram.com/viditnaithani/
 
 <!---
