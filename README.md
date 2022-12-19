@@ -1,4 +1,6 @@
-<img align="right" alt="heading" width="100" height="100" src="https://tenor.com/view/github-cat-kitty-waiting-loading-gif-25774588.gif">
+<div align="center">
+<img align="center" alt="heading" width="100" height="100" src="https://tenor.com/view/github-cat-kitty-waiting-loading-gif-25774588.gif">
+</div>  
 <h1 align="center">Hi👋, I'm Vidit Naithani</h1>
 <h3 align="center">A Student of Software Engineering</h3>
 
