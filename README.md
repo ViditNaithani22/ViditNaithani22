@@ -1,7 +1,4 @@
-<div align="center">
-<img src="./resources/ashutosh-tiwari-github.gif" width="80" height="80" style="border-radius: 50%;">
-</div>
-<h1 align="center">Hi, I'm Vidit Naithani</h1>
+<h1 align="center">Hi👋, I'm Vidit Naithani</h1>
 <h3 align="center">A Student of Software Engineering</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
