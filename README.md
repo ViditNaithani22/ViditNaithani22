@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidit Naithani</h1>
 <h3 align="center">A Student of Software Engineering</h3>
 
-![image](https://user-images.githubusercontent.com/102232954/208408105-ad5f51a0-31ba-4e89-9e80-c3a7d89c4fe3.png)
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viditnaithani22&label=Profile%20views&color=0e75b6&style=flat" alt="viditnaithani22" /> </p>
 
