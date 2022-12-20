@@ -30,7 +30,7 @@
 <h4 align="left">🍁 I would love to collaborate in projects related to android development and angular development</h4>
 <h4 align="left">🍁 If you have any project ideas, then just ping me, lets do this together!</h4>
 <br>
-<img align="right" alt="coding" width="400" height="400" src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif">
+<img align="right" alt="coding" width="300" height="300" src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif">
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viditnaithani22&show_icons=true&locale=en" alt="viditnaithani22" /></p>
 <br>
