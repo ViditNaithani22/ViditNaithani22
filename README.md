@@ -23,11 +23,12 @@
 <br>
 <h3 align="left">About me -</h3>
 <h4 align="left">🍁 I am currently pursuing a master of science degree in Computer Software Engineering at the Rochester Institute of Technology.</h4>
-<h4 align="left">🍁 I have experience in web development using Angular for the front end, Spring boot for the back end, and REST APIs.</h4>
-<h4 align="left">🍁 I am also learning Android application developmet using Android Studio and Java</h4>
-<h4 align="left">🍁 I generally like to post any questions that I find interesting and difficult related to Data Structures and Algorithems, and java</h4>
-<h4 align="left">🍁 In the next few semesters, I will also focus on learning how to design and implement database systems, A* and iterative deepening search algorithms, machine learning, natural language processing, and cloud computing systems.</h4>
-<h4 align="left">🍁 I would love to collaborate in projects related to android development and angular development</h4>
+<h4 align="left">🍁 Along with a keen interest in full-stack web development, I bring proficiency in crafting robust and scalable web applications.</h4>
+<h4 align="left">🍁 I am also learning Android application developmet using Android Studio.</h4>
+<h4 align="left">🍁 My skills extend to harnessing the power of AWS cloud services, ensuring seamless integration and deployment.</h4>
+<h4 align="left">🍁 I generally like to post any questions that I find interesting and difficult related to Data Structures and Algorithems.</h4>
+<h4 align="left">🍁 In the next few semesters, I will also focus on machine learning and natural language processing.</h4>
+<h4 align="left">🍁 I would love to collaborate in projects related to android development and web development.</h4>
 <h4 align="left">🍁 If you have any project ideas, then just ping me, lets do this together!</h4>
 <br>
 <img align="right" alt="coding" width="300" height="300" src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif">
