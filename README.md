@@ -99,10 +99,7 @@
   </a>  
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-  </a>  
-  <a href="https://fasttext.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/FastTextLogo.svg" alt="fasttext" width="40" height="40"/> 
-  </a>  
+  </a>
 </p>
 
 
