@@ -3,7 +3,7 @@
 </div>  
 <h1 align="center">Hi👋, I'm Vidit Naithani</h1>
 <h3 align="center">A Student of Software Engineering</h3>
-<h4 align="center"><a href="https://www.viditnaithani.com">www.viditnaithani.com</a></h4>
+<h3 align="center"><a href="https://www.viditnaithani.com">www.viditnaithani.com</a></h3>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
@@ -72,10 +72,7 @@
   </a>  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>  
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40"/> 
-  </a>  
+  </a>    
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a>  
@@ -87,10 +84,7 @@
   </a>  
   <a href="https://www.gitpod.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-icon.svg" alt="gitpod" width="40" height="40"/> 
-  </a>  
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a>  
+  </a>    
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>  
